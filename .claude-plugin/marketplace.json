@@ -14,7 +14,8 @@
       "source": {
         "source": "git-subdir",
         "url": "https://github.com/favonian-ai/plugins-public.git",
-        "path": "brainstorm"
+        "path": "brainstorm",
+        "sha": "a1295dea7b06c5acf9f6b9752fb71f8976ce398a"
       }
     }
   ]
